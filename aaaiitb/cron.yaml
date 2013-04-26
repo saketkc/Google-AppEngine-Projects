@@ -1,0 +1,4 @@
+cron:
+- description: hourly status update
+  url: /update
+  schedule: every 90 minutes
